@@ -10,3 +10,8 @@ h5 h2 {
 h5 .clearfix {
   border: 2px;
 }
+
+/* line 11, sass/style.scss */
+a {
+  color: #333333;
+}
