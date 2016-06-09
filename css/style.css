@@ -1,8 +1,12 @@
 /* line 1, sass/style.scss */
-#h5 {
+h5 {
   color: #eeeeef;
 }
 /* line 3, sass/style.scss */
-#h5 #h2 {
+h5 h2 {
   color: #eeeeee;
+}
+/* line 6, sass/style.scss */
+h5 .clearfix {
+  border: 2px;
 }
